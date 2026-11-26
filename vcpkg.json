@@ -1,0 +1,12 @@
+{
+  "name": "tk_dodge_re",
+  "version-string": "0.4.10.2",
+  "description": "TK Dodge RE Universal SE/AE/VR SKSE64 Plugin",
+  "license": "GPL-3.0-or-later",
+  "dependencies": ["simpleini", "spdlog"],
+  "features": {
+    "mo2-install": {
+      "description": "TK Dodge RE"
+    }
+  }
+}

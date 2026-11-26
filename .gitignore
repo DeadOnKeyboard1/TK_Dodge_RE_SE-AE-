@@ -1,0 +1,15 @@
+build/
+dist/
+build-logs/
+out/
+.vs/
+vcpkg_installed/
+__pycache__/
+*.dll
+*.pdb
+*.lib
+*.exp
+*.obj
+*.zip
+*.log
+CMakeUserPresets.json
